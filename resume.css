@@ -16,3 +16,8 @@ body {
 .section-title {
     text-transform: capitalize;
 }
+
+img {
+    width: 150px;
+    height: 150px;
+}
